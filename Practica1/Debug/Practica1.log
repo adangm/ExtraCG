@@ -1,0 +1,17 @@
+﻿  Final.cpp
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(683,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(684,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(688,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(689,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(691,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(692,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Practica1\Final.cpp(700,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_joystick.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  Practica1.vcxproj -> C:\Users\PC\Documents\Visual Studio 2022\Projects\Practica1\Debug\Practica1.exe
