@@ -1,0 +1,2 @@
+# ExtraCG
+Proyecto Computación Gráfica
